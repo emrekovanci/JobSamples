@@ -9,6 +9,10 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/[Uu]ser[Ss]ettings/
+
+.vsconfig
+.idea/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
@@ -60,4 +64,3 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
